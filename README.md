@@ -3,7 +3,7 @@ C 语言的基础学习
 
 
 <font color="#0000ff">指针举例</font>
-<font color=#0099ff size=5 face="黑体">color=#0099ff size=5 face="黑体"</font>
+
 ```
 //普通的整型变量
 int p; 
