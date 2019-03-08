@@ -1,8 +1,8 @@
 # BaseOfCLanguage
 C 语言的基础学习
 
-`指针举例`
-
+``
+<font color="#0000ff">指针举例</font>
 ```
 //普通的整型变量
 int p; 
